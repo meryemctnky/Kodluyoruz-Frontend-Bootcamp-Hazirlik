@@ -1,1 +1,1 @@
-# Bu repo Kodluyoruz Frontend Bootcamp'i hazırlık sürecinde yaptığım ödevleri/projeleri barındırıyor.
+### Bu repo Kodluyoruz Frontend Bootcamp'i hazırlık sürecinde yaptığım ödevleri/projeleri barındırıyor.
